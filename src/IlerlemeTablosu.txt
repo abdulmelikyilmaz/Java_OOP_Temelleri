@@ -1,0 +1,19 @@
+Bu klasorde, her konu öğrenildikten sonra bir onceki ogrenilen konulari da kapsayacak sekilde bir arada kullanilmistir.
+
+
+Konular;
+Overloading
+Classlar
+Constructor
+Erişim belirleyiciler
+Static 
+Encapsulation
+Getter Setter
+Kalıtım 
+Super anahtar kelimesi
+Overriding
+Polymorphism
+Abstraction
+Interface
+
+
