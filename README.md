@@ -1,18 +1,27 @@
-## Getting Started
+# Java OOP Öğrenim Projesi 🚀
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bu repository, Java dilinde **Nesne Yönelimli Programlama (OOP - Object-Oriented Programming)** konularını öğrenirken pratik yapmak ve kalıcı öğrenme sağlamak amacıyla geliştirdiğim kodları içermektedir.
 
-## Folder Structure
+## 📂 Proje İçeriği ve Örnekler
 
-The workspace contains two folders by default, where:
+Proje içerisinde temel OOP prensiplerine ait örnek uygulamalar yer almaktadır:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* **`src/Abstract/`** - Soyut sınıflar (Abstract Classes) ve kullanım senaryoları
+* **`src/Constructor/`** - Yapıcı metotlar (Constructors) ve nesne başlatma örnekleri
+* **`src/Encapsulation/`** - Kapsülleme (Veri gizliliği ve getter/setter metotları)
+* **`src/ErisimBelirleyiciler/`** - Erişim belirleyiciler (Public, Private, Protected)
+* **`src/Interfacee/`** - Arayüzler (Interfaces) ve çoklu kalıtım simülasyonları
+* **`src/Kalitim/`** - Kalıtım (Inheritance) ve üst/alt sınıf ilişkileri
+* **`src/Overloading/`** - Metot aşırı yükleme (Method Overloading)
+* **`src/Overriding/`** - Metot geçersiz kılma (Method Overriding)
+* **`src/Siniflar/`** - Temel sınıf yapıları ve hata yönetimi örnekleri
+* **`src/SiniflarArasiIliskiler/`** - Sınıflar arası ilişkiler (Association, Composition vb.)
+* **`src/Staticc/`** - Statik anahtar kelimesi (Static keyword) kullanımları
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Kullanılan Teknolojiler
+* **Dil:** Java
+* **IDE:** Visual Studio Code
+* **Versiyon Kontrol:** Git & GitHub
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📬 İletişim
+Geliştirdiğim bu örnekler veya projeler hakkında önerilerin olursa benimle iletişime geçebilirsin!
